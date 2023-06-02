@@ -36,7 +36,7 @@
      "Pyrogram==2.0.93" : "latest"
      "python-dotenv" : "latest"
      "python-magic" : "latest"
-     "python-telegram-bot==13.15" : "latest"
+     "python-telegram-bot" : "^13.15"
      "psycopg2" : "latest"
      "requests" : "latest"
      "telegraph" : "latest"
