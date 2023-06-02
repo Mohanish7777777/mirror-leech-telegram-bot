@@ -17,7 +17,6 @@
   "homepage": "https://github.com/Mohanish7777777/mirror-leech-telegram-bot.git#readme",
   "dependencies": {
     "express": "^4.18.2"
-    "appdirs" : "latest"
     "aria2p" : "latest"
     "beautifulsoup4" : "latest"
     "google-api-python-client" : "latest"
