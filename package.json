@@ -43,5 +43,12 @@
      "tenacity" : "latest"
      "TgCrypto" : "latest"
      "yt-dlp" : "latest"
+    "google-api-python-client" : "latest"
+"google_auth_oauthlib" : "latest"
+"httplib2shim" : "latest"
+"oauth2client" : "latest"
+"progress" : "latest"
+"progressbar2" : "latest"
+"pyrogram" : "latest"
   }
 }
